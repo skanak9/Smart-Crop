@@ -1,6 +1,6 @@
-# Crop Recommendation System
+# Smart Crop System
 
-The Crop Recommendation System is a machine learning-based application designed to recommend the most suitable crop types for given environmental conditions.
+The Smart Crop  System is a machine learning-based application designed to recommend the most suitable crop types for given environmental conditions.
 Utilizing data on soil type, climate, and precipitation, our system leverages a RandomForestClassifier to provide data-driven crop recommendations. 
 This tool aims to assist farmers, agricultural researchers, and hobbyists in making informed decisions to maximize yield and sustainability.
 
@@ -15,10 +15,6 @@ This tool aims to assist farmers, agricultural researchers, and hobbyists in mak
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-- Python 3.8 or newer
-- pip
 
 ### Installation
 
@@ -45,9 +41,6 @@ python recommend_crop.py --soil_type loamy --climate temperate --precipitation 5
 
 Replace the values for `--soil_type`, `--climate`, and `--precipitation` with your specific conditions.
 
-## Contributing
-
-We welcome contributions to the Crop Recommendation System! Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests to us.
 
 ## License
 
@@ -55,7 +48,4 @@ This project is proprietary and protected under a custom license agreement. For 
 
 For further inquiries, including potential use cases and collaboration, please reach out to androidextractions@gmail.com.
 
-## Acknowledgments
-
-- Thanks to all contributors who have helped to build this project.
 
