@@ -1,4 +1,4 @@
-# Smart Crop System
+# The Smart Crop System
 
 The Smart Crop  System is a machine learning-based application designed to recommend the most suitable crop types for given environmental conditions.
 Utilizing data on soil type, climate, and precipitation, our system leverages a RandomForestClassifier to provide data-driven crop recommendations. 
